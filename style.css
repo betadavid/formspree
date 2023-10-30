@@ -1,0 +1,15 @@
+label {
+    display: block;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 10px;
+}
+
+div {
+    margin-top: 10px;
+}
